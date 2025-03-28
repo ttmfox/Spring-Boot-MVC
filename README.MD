@@ -222,6 +222,5 @@ Mối quan hệ
 - order_detail - products: Một sản phẩm có thể thuộc nhiều đơn hàng (order_detail.product_id → products.id).
 
 
-## Liên hệ
-Mọi thắc mắc trong quá trình tải hoặc cài đặc dự án vui lòng liên hệ qua email 2251012143trung@ou.edu.vn hoặc 2251012034dat@ou.edu.vn. 
+
 
